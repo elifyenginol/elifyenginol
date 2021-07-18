@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elif</h1>
-<h3 align="center">I'm a computer engineering student at Üsküdar university</h3>
+<h3 >I'm a computer engineering student at Üsküdar university</h3>
 
 - 📫 How to reach me **elifyenginol5@gmail.com**
 
